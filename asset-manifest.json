@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sea_battle/static/css/main.61e14656.css",
+    "main.js": "/sea_battle/static/js/main.1f4b5b88.js",
+    "static/js/787.f9c4e819.chunk.js": "/sea_battle/static/js/787.f9c4e819.chunk.js",
+    "static/media/triangle-green.png": "/sea_battle/static/media/triangle-green.13d2a25bd540f2ca1f48.png",
+    "static/media/sample.png": "/sea_battle/static/media/sample.c1aef3c006811f4db1b2.png",
+    "static/media/triangle-red.png": "/sea_battle/static/media/triangle-red.344977968b964cc1c30d.png",
+    "static/media/user-icon.png": "/sea_battle/static/media/user-icon.ca97dffa3bf757477c78.png",
+    "index.html": "/sea_battle/index.html",
+    "main.61e14656.css.map": "/sea_battle/static/css/main.61e14656.css.map",
+    "main.1f4b5b88.js.map": "/sea_battle/static/js/main.1f4b5b88.js.map",
+    "787.f9c4e819.chunk.js.map": "/sea_battle/static/js/787.f9c4e819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e14656.css",
+    "static/js/main.1f4b5b88.js"
+  ]
+}
