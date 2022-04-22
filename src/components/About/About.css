@@ -1,0 +1,34 @@
+.description {
+    top: 35%;
+    left: 10%;
+    width: 35%;
+    min-width: 500px;
+    position: absolute;   
+}
+.sample {
+    top: 20%;
+    right: 10%;
+    position: absolute;   
+}
+.description h1{
+    margin: 0;
+    font-size: 40px;
+}
+.description p{
+    font-size: 20px;
+}
+.description button{
+    background: none;
+    border: 2px solid black;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .4s;
+}
+.description button:hover {
+    background-color: rgb(84, 141, 226);
+}

@@ -1,0 +1,108 @@
+.myCeil {
+  background-color: #4B00BA;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  margin: 2px;
+  box-shadow: inset 0 0 10px black;
+  
+}
+.opponentCeil {
+  background-color: rgb(112, 62, 62);
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  margin: 2px;
+  box-shadow: inset 0 0 10px black;
+  
+
+}
+.field {
+  vertical-align: top;
+  margin: 40px 50px;
+  display: inline-block;
+  
+}
+
+table {
+  background-color: black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0;
+}
+.ship {
+  background-color: rgb(122, 55, 127);
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  margin: 2px;
+  box-shadow: inset 0 0 10px black;
+  
+
+}
+.empty {
+  background-color: #4B00BA;
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgb(0, 0, 0);
+  margin: 2px;
+  box-shadow: inset 0 0 10px black;
+  
+}
+.destroyed {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  margin: 2px;
+  box-shadow: inset 0 0 10px white;
+  
+
+}
+.injured {
+    background-color: yellow;
+  width: 50px;
+  height: 50px;
+  margin: 2px;
+  box-shadow: inset 0 0 10px black;
+}
+.info {
+  background-color: #00AEB4;
+  border: 3px solid black;
+  margin-top: 20px;
+  text-align: left;
+}
+.set-game-buttons{
+  margin-top: 30px;
+}
+.handle-ships {
+  width: 400px;
+  height: 50px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 2px solid black;
+  font-size: large;
+  background-color: lightblue;
+}
+.start-game {
+  width: 400px;
+  height: 50px;
+  background-color: lightgreen;
+  border-radius: 10px;
+  border: 2px solid black;
+  font-size: large;
+}
+button:hover {
+  border-color: rgba(0, 0, 0, 0.5);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+button:active {
+  background-color: #f0f0f1;
+  border-color: rgba(0, 0, 0, 0.5);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
